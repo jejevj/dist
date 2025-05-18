@@ -1,0 +1,1 @@
+import{C as e}from"./CalendarApp1-15a1ee1a.js";import{d as n,_ as a,r as p,i as r,o as t}from"./index-3ac87295.js";import"./assets-126005a7.js";import"./sweetalert2-4c0e8b05.js";const s=n({name:"apps-calendar",components:{CalendarApp1:e}});function c(m,d,_,i,l,f){const o=p("CalendarApp1");return t(),r(o)}const A=a(s,[["render",c]]);export{A as default};
