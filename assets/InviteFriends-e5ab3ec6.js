@@ -1,3 +1,0 @@
-import{K as r}from"./Card-7fcd0397.js";import{K as i}from"./InviteFriendsModal-ecc76b12.js";import{a as s}from"./assets-bdf6535a.js";import{d,_ as l,r as e,e as m,m as n,F as p,o as c}from"./index-0254c8c1.js";const _=d({name:"invite-friends",components:{KTModalCard:r,KTInviteFriendsModal:i},setup(){return{getIllustrationsPath:s}}});function f(t,u,v,F,I,K){const o=e("KTModalCard"),a=e("KTInviteFriendsModal");return c(),m(p,null,[n(o,{title:"Invite Friends Modal Example",description:`Click on the below buttons\r
-  to launch <br />\r
-  a friend invitation example.`,image:t.getIllustrationsPath("1.png"),"button-text":"Invite Friends","modal-id":"kt_modal_invite_friends"},null,8,["image"]),n(a)],64)}const h=l(_,[["render",f]]);export{h as default};
